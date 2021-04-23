@@ -1,16 +1,31 @@
-### Hi there 👋
+# Whats good? 🧙
+ 
+ ## 💬 My name is Justin Benz, I am a driven Full Stack Developer with a history of Brand Realization and Design looking to break into the freelancing world.
 
-<!--
-**JustinBenz/JustinBenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🥇 Experience/Stack:
+  - HTML5
+  - CSS3
+  - Javascript
+  - Java
+  - SQL
+  - Python
+  - React.js
+  - SpringBoot
+  - Webflow
+  - Figma
+  - Photoshop/Paint.NET
+  - Illustrator
+  - Blender
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ☎️ You can contact me a multitude of ways:
+   - Upwork - https://www.upwork.com/freelancers/~01fe4cc6a60044f695
+   - Freelancer.com - {DEPRECATED}
+   - LinkedIn - https://www.linkedin.com/in/justinbenz/
+   - Dribbble - {DEPRECATED}
+   - Twitter - {DEPRECATED}
+  
+- ❔ Interests of mine include:
+    - Building the Oasis
+    - Attaining immortality
+    - World Domination
