@@ -20,10 +20,9 @@
 
 - ☎️ You can contact me a multitude of ways:
    - Upwork - https://www.upwork.com/freelancers/~01fe4cc6a60044f695
-   - Freelancer.com - {DEPRECATED}
    - LinkedIn - https://www.linkedin.com/in/justinbenz/
    - Dribbble - {DEPRECATED}
-   - Twitter - {DEPRECATED}
+   - Twitter - https://twitter.com/frontendbenz
   
 - ❔ Interests of mine include:
     - Building the Oasis
